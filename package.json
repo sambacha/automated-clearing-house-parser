@@ -1,0 +1,19 @@
+{
+  "name": "nacha-ach-file-parser",
+  "version": "1.0.0",
+  "description": "Read NACHA files",
+  "main": "./gradlew",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/nacha-ach-parser.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/nacha-ach-parser/issues"
+  },
+  "homepage": "https://github.com/sambacha/nacha-ach-parser#readme"
+}
